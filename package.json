@@ -1,0 +1,10 @@
+{
+  "name": "ft-report",
+  "version": "1.0.0",
+  "description": "A google script to automize ft report sheet",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Amir Pourhadi",
+  "license": "ISC",
+  "repository": "https://github.com/Amir-Pourhadi/FT-Report"
+}
